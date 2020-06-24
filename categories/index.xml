@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Rumor Theory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jun 2020 20:40:05 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2020 20:58:46 +0800</lastBuildDate>
     
 	<atom:link href="//news.face8ook.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>english</title>
+      <link>//news.face8ook.org/categories/english/</link>
+      <pubDate>Wed, 24 Jun 2020 20:58:46 +0800</pubDate>
+      
+      <guid>//news.face8ook.org/categories/english/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>other</title>
@@ -17,15 +26,6 @@
       <pubDate>Wed, 24 Jun 2020 20:40:05 +0800</pubDate>
       
       <guid>//news.face8ook.org/categories/other/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>english</title>
-      <link>//news.face8ook.org/categories/english/</link>
-      <pubDate>Sun, 21 Jun 2020 01:58:52 +0800</pubDate>
-      
-      <guid>//news.face8ook.org/categories/english/</guid>
       <description></description>
     </item>
     
